@@ -11,13 +11,14 @@ BÁO CÁO MÔN HỌC: VI ĐIỀU KHIỂN
 
 GVHD: Thầy Đường Khánh Sơn
 
-Nhóm SVTH: 
-    1. Nguyễn Văn Đình
-    
-    2. Thi Minh Nhựt
-    
-    3. Phạm Thanh Quý
-    
-    4. Liên Thái Trường
-    
-    5. Lư Anh Tuấn
+Nhóm SVTH:
+
+1. Nguyễn Văn Đình
+
+2. Thi Minh Nhựt
+
+3. Phạm Thanh Quý
+
+4. Liên Thái Trường
+
+5. Lư Anh Tuấn
