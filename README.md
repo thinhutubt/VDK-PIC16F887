@@ -1,4 +1,4 @@
-# VDK-PIC16F877
+# VDK-PIC16F887
 #HK6 - 03/2016
 
 Trường Đại học Kỹ thuật - Công nghệ Cần Thơ
